@@ -1,2 +1,2 @@
-# odin-recipes
-theodinproject's 1st html project milestone
+# Recipes-Website
+A toy website used to showcase my favourite foods and recipes.
